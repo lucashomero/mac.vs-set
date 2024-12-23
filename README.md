@@ -1,1 +1,1 @@
-Settings that I use on MacOs for Visual Studio Code.
+Settings that I use on Visual Studio Code at MacOS.
