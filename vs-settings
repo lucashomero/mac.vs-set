@@ -8,6 +8,7 @@
       80,
       120
     ],
+    "files.autoSave": "afterDelay",
     "extensions.ignoreRecommendations": true,
     "typescript.tsserver.log": "off",
     "editor.stickyScroll.enabled": false,
